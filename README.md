@@ -33,7 +33,7 @@ Tenho experiência prática em projetos acadêmicos colaborativos, contribuindo 
 - Desenvolvimento de funcionalidades e interfaces front-end
 - Melhoria visual de telas e refatoração de UI
 - Testes automatizados
-- Configuração de pipelines CI/CD com GitHub Actions
+- Configuração de pipelines CI/CD com GitHub Actions  
 Tenho buscado evoluir em front-end, além de aprofundar meus conhecimentos em JavaScript e TypeScript, sempre aprendendo na prática por meio de projetos em equipe.
 
 ---
